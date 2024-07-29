@@ -1,0 +1,4 @@
+gcc -o Hangman.exe Hangman.c -IC:\raylib-5.0_win64_msvc16\include -LC:\raylib-5.0_win64_msvc16\lib -lraylib -lopengl32 -lgdi32 -lwinmm
+gcc -o Hangman_V2.exe Hangman_V2.c -IC:\raylib-5.0_win64_msvc16\include -LC:\raylib-5.0_win64_msvc16\lib -lraylib -lopengl32 -lgdi32 -lwinmm
+gcc -o Hangman_V3.exe Hangman_V3.c -IC:\raylib-5.0_win64_msvc16\include -LC:\raylib-5.0_win64_msvc16\lib -lraylib -lopengl32 -lgdi32 -lwinmm
+gcc -o Hangman_V4.exe Hangman_V4.c -IC:\raylib-5.0_win64_msvc16\include -LC:\raylib-5.0_win64_msvc16\lib -lraylib -lopengl32 -lgdi32 -lwinmm
